@@ -1,0 +1,19 @@
+{
+  "package": "dsh-context",
+  "version": "0.76.0",
+  "capturedOn": "2026-10-30",
+  "upstream": "bowenliang123/dsh-context",
+  "files": {
+    "LICENSE": "919857728c4e1d0f76be03af00437d9910c943f883d04c8c58a6a0cb1c3225b0",
+    "README.md": "87e74f1a40a7ffdcb78f3970ca91b082608236c5e0d02951e06877251cbd4c2f",
+    "cordis.patch.yml": "f0861d79b2b1e5d3189be811f4d530d17fb3012883cf6791fb7713dbda664c29",
+    "icon.svg": "480715a9626fbb6667ae8b39bfaddf6c96600b624704e1b84109c67e37a9d4dc",
+    "lib/client.js": "db064274b4ea74e4e9c33f6fd3cfe359cc522dac4eb0662ba54d8edcf811e0c3",
+    "lib/index.d.ts": "97c13b366100a44916e64af00eb765d333701452fb795717ebe3e8ab5affc790",
+    "lib/index.js": "a0c29f8382c54cdafa34698571624c2c68ff24a43f12d7ce9fb13d747b6846e7",
+    "locale/en.json": "8c31e0e780b5d8179c8ddc6a201c0639850863074fa0717b215361623a2dac7e",
+    "locale/zh.json": "5e1ce76ef7b0ebf600368289f9e685c4f4697dec9dd4a69469f887172ed53c46",
+    "package.json": "15a490303a6bb3c85f1e39f0dcf14a563ca0d96754faa2041abfe539ea7de261"
+  },
+  "readmeNote": "README.md has an added mirror notice; the hash records the original installed README."
+}
